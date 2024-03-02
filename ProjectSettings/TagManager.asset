@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG
+    uniqueID: 4101400207
+    locked: 0
+  - name: Midground
+    uniqueID: 2607173773
+    locked: 0
+  - name: Touchables
+    uniqueID: 3188131067
+    locked: 0
+  - name: Berries
+    uniqueID: 1331699845
+    locked: 0
+  - name: Enemies
+    uniqueID: 1960196705
+    locked: 0
+  - name: Player
+    uniqueID: 4203801537
+    locked: 0
